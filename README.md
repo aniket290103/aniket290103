@@ -1,4 +1,4 @@
-<h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐀𝐧𝐢𝐤𝐞𝐭 𝐆𝐚𝐣𝐚𝐧𝐤𝐮𝐬𝐡</h1>
+  <h1 align="center">𝐇𝐢 👋, 𝐈'𝐦 𝐀𝐧𝐢𝐤𝐞𝐭 𝐆𝐚𝐣𝐚𝐧𝐤𝐮𝐬𝐡</h1>
 <h3 align="center">𝗔 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗙𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket290103&label=Profile%20views&color=0e75b6&style=flat" alt="aniket290103" /> </p>
